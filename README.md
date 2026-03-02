@@ -1,4 +1,4 @@
-# classify-2000photos-by-SVM-nad-CNN
+# classify-2000photos-by-SVM-and-CNN
 本次实验采用的数据集大小为2000张图片，其中将50%作为训练集，50%作为测试集。训练集和测试集中的样本都有20个类别的图片，每个类别50张，总计1000张图片。
 
 idx2label = {
